@@ -16,7 +16,6 @@
 [![Webpack](/img/webpack-padded-90.png)](https://webpack.github.io/)
 [![Bootstrap](/img/bootstrap-padded-90.png)](http://getbootstrap.com/)
 
-Welcome to my modern JavaScript stack tutorial: **JavaScript Stack from Scratch**.
 Modern JavaScript stack dersine hoşgeldiniz: **Sıfırdan JavaScript Stack**
 
 > 🎉 **Derslerin 2. versiyonudur, 2016 sürümünden sonra büyük değişiklikler eklenmiştir. Değişiklik dosyasını incelebilirsiniz. [Change Log](/CHANGELOG.md)!**
